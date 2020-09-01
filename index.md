@@ -5,7 +5,7 @@
 - [Presentazione del corso](http://albertoferrari.github.io/oop_Python/lezioni/OOPPython-00-presentazione.pdf)
 
 ### esempi
-- [esempi in Python](https://github.com/albertoferrari/oop_Python/tree/master/esempi)
+- [esempi in Python](https://albertoferrari.github.io/oop_Python/esempi)
 
 ### materiale
-- [materiale](https://github.com/albertoferrari/oop_Python/materiale)
+- [materiale](https://albertoferrari.github.io/oop_Python/materiale)
