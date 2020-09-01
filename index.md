@@ -5,6 +5,7 @@
 - [Presentazione del corso](http://albertoferrari.github.io/oop_Python/lezioni/OOPPython-00-presentazione.pdf)
 - [Paradigmi di programmazione](http://albertoferrari.github.io/oop_Python/lezioni/OOPPython-01-paradigmi.pdf)
 - [Python](http://albertoferrari.github.io/oop_Python/lezioni/OOPPython-02-python.pdf)
+- [Funzioni](http://albertoferrari.github.io/oop_Python/lezioni/OOPPython-03-funzioni.pdf)
 
 ### esempi
 - [esempi in Python](https://albertoferrari.github.io/oop_Python/esempi)
