@@ -1,8 +1,6 @@
-Object Oriented Programming - Python
-
-http://albertoferrari.github.io/oop_Python/
-
-Python examples
-
-Copyleft (ɔ) 2018 Alberto Ferrari - http://www.ce.unipr.it/people/aferrari
-This software is free - License: http://www.gnu.org/licenses/gpl-3.0.txt
+### link e materiale didattico
+- [thinkpython_italian](http://albertoferrari.github.io/informatica/lezioni3/materiale/thinkpython_italian.pdf){:target="_blank"}
+- [Python quick reference](http://albertoferrari.github.io/informatica/lezioni3/materiale/Python 3 quick reference.pdf){:target="_blank"}
+- [grafica 2d](http://albertoferrari.github.io/informatica/lezioni3/materiale/g2d.zip){:target="_blank"}
+- [Python org](https://www.python.org/){:target="_blank"}
+- [Block Programming Python](https://think.cs.vt.edu/blockpy/){:target="_blank"}
