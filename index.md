@@ -1,5 +1,5 @@
 ### Cisita Parma
-- [IFTS](https://www.cisita.parma.it){:target="_blank"}
+- [Cisita](https://www.cisita.parma.it){:target="_blank"}
 
 ### Object Oriented Programming - Java
 - [Presentazione del corso](http://albertoferrari.github.io/oop_Python/lezioni/OOPPython-00-presentazione.pdf)
