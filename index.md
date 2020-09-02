@@ -11,4 +11,5 @@
 - [esempi in Python](https://albertoferrari.github.io/oop_Python/esempi)
 
 ### materiale
-- [materiale](https://albertoferrari.github.io/oop_Python/tree/gh-pages/materiale)
+- [materiale](https://github.com/albertoferrari/oop_Python/tree/gh-pages/materiale)
+
