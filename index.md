@@ -8,8 +8,7 @@
 - [Funzioni](http://albertoferrari.github.io/oop_Python/lezioni/OOPPython-03-funzioni.pdf)
 
 ### esempi
-- [esempi in Python](https://albertoferrari.github.io/oop_Python/esempi)
+- [esempi in Python](https://github.com/albertoferrari/oop_Python/tree/gh-pages/esempi)
 
 ### materiale
-- [materiale](https://github.com/albertoferrari/oop_Python/tree/gh-pages/materiale)
-
+- [materiale](https://albertoferrari.github.io/oop_Python/materiale)
