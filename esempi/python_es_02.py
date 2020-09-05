@@ -9,7 +9,7 @@
 perimetro = float(input("perimetro del quadrato: "))
 # elaborazione
 lato = perimetro / 4
-area = lato * lato
+area = lato ** 2
 #output
 print("il quadrato con perimetro",perimetro)
 print("ha il lato lungo",lato)

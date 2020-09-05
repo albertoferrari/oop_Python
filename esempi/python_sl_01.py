@@ -2,7 +2,7 @@
  @author Alberto Ferrari - https://albertoferrari.github.io/
  @license This software is free - http://www.gnu.org/licenses/gpl.html
  
- somma di tre valori in input (valori di tipo float)”
+ somma di tre valori in input (valori di tipo float)
 '''
 
 a = float(input("Inserisci il primo   valore: "))
